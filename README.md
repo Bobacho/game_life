@@ -11,8 +11,8 @@ A Java implementation of Conway's Game of Life using Gradle, featuring adjustabl
 - **Interactive Start**: Press Enter to begin/pause the simulation.
 
 ## Prerequisites
-- Java JDK 8 or higher
-- Gradle 7.0 or higher
+- Java JDK 21 or higher
+- Gradle 8.1 or higher
 
 ## Installation
 1. Clone the repository:
