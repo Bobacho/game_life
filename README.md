@@ -28,5 +28,3 @@ A Java implementation of Conway's Game of Life using Gradle, featuring adjustabl
 ```bash
   gradle build
 ```
-```
-```
